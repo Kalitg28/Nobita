@@ -5,7 +5,7 @@ class script(object):
 ɪ  ᴄᴀɴ  ᴘʀᴏᴠɪᴅᴇ  ᴍᴏᴠɪᴇs  ᴀɴᴅ  sᴇʀɪᴇs,
 ᴊᴜsᴛ  ᴀᴅᴅ  ᴍᴇ  ᴛᴏ  ʏᴏᴜʀ  ɢʀᴏᴜᴘ  ᴀɴᴅ  ᴇɴᴊᴏʏ  😍
 
-💞 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/MovieVillaYT'>ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ</a></b>
+💞 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/TamilRockerz_TR'>@TamilRockerz_TR</a></b>
 """
 
     HELP_TXT = """
@@ -18,7 +18,7 @@ class script(object):
 </b>"""
 
     ABOUT_TXT = """<b>➣ ᴍʏ ɴᴀᴍᴇ ⋟</b>  {}
-<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟</b>  <a href=https://youtube.com/@NobiDeveloper>𝘔𝘖𝘝𝘐𝘌 𝘝𝘐𝘓𝘓𝘈</a>
+<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟</b>  <a href=https://t.me/Kalitgadmin_Bot>Admin</a>
 <b>➣ ʟɪʙʀᴀʀʏ ⋟</b>  𝘱𝘺𝘳𝘰𝘨𝘳𝘢𝘮
 <b>➢ ʟᴀɴɢᴜᴀɢᴇ ⋟</b>  𝘱𝘺𝘵𝘩𝘰𝘯 3
 <b>➣ ᴅᴀᴛᴀʙᴀsᴇ ⋟</b>  𝘮𝘰𝘯𝘨𝘰 𝘥𝘣
@@ -26,11 +26,12 @@ class script(object):
 <b>➣ ʙᴜɪʟᴅ sᴛᴀᴛs ⋟</b>  𝘷2.0.1 ﹝ʙᴇᴛᴀ﹞"""
 
     SOURCE_TXT = """
-<b>ᴛʜɪꜱ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.</b>
+<b>Hᴇʏ, Tʜɪs ʙᴏᴛ ɪs ᴀ ɴᴏᴛ  Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ ɪᴛ ɪꜱ ᴘʀɪᴠᴀᴛᴇ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇꜱ ɪɴ ᴛʜɪꜱ ʙᴏᴛ ᴀʀᴇ ꜰʀᴇᴇʟʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ᴏʀ ᴘᴏꜱᴛᴇᴅ ʙʏ ꜱᴏᴍᴇʙᴏᴅʏ ᴇʟꜱᴇ.  ᴊᴜꜱᴛ ꜰᴏʀ ᴇᴀꜱʏ ꜱᴇᴀʀᴄʜɪɴɢ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɪɴᴅᴇxɪɴɢ ꜰɪʟᴇꜱ ᴡʜɪᴄʜ ᴀʀᴇ ᴀʟʀᴇᴀᴅʏ ᴜᴘʟᴏᴀᴅᴇᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ. ᴡᴇ ʀᴇꜱᴘᴇᴄᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴘʏʀɪɢʜᴛ ʟᴀᴡꜱ ᴀɴᴅ ᴡᴏʀᴋꜱ ɪɴ ᴄᴏᴍᴘʟɪᴀɴᴄᴇ ᴡɪᴛʜ ᴅᴍᴄᴀ ᴀɴᴅ ᴇᴜᴄᴅ. ɪꜰ ᴀɴʏᴛʜɪɴɢ ɪꜱ ᴀɢᴀɪɴꜱᴛ ʟᴀᴡ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ꜱᴏ ᴛʜᴀᴛ ɪᴛ ᴄᴀɴ ʙᴇ ʀᴇᴍᴏᴠᴇᴅ ᴀꜱᴀᴘ. ɪᴛ ɪꜱ ꜰᴏʀʙɪʙʙᴇɴ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ꜱᴛʀᴇᴀᴍ, ʀᴇᴘʀᴏᴅᴜᴄᴇ, ᴏʀ ʙʏ ᴀɴʏ ᴍᴇᴀɴꜱ, ꜱʜᴀʀᴇ, ᴏʀ ᴄᴏɴꜱᴜᴍᴇ, ᴄᴏɴᴛᴇɴᴛ ᴡɪᴛʜᴏᴜᴛ ᴇxᴘʟɪᴄɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ᴄʀᴇᴀᴛᴏʀ ᴏʀ ʟᴇɢᴀʟ ᴄᴏᴘʏʀɪɢʜᴛ ʜᴏʟᴅᴇʀ. ɪꜰ ʏᴏᴜ ʙᴇʟɪᴇᴠᴇ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴠɪᴏʟᴀᴛɪɴɢ ʏᴏᴜʀ ɪɴᴛᴇʟʟᴇᴄᴛᴜᴀʟ ᴘʀᴏᴘᴇʀᴛʏ, ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ʀᴇꜱᴘᴇᴄᴛɪᴠᴇ ᴄʜᴀɴɴᴇʟꜱ ꜰᴏʀ ʀᴇᴍᴏᴠᴀʟ. ᴛʜᴇ ʙᴏᴛ ᴅᴏᴇꜱ ɴᴏᴛ ᴏᴡɴ ᴀɴʏ ᴏꜰ ᴛʜᴇꜱᴇ ᴄᴏɴᴛᴇɴᴛꜱ, ɪᴛ ᴏɴʟʏ ɪɴᴅᴇx ᴛʜᴇ ꜰɪʟᴇꜱ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.
+👀 Bᴜᴛ, Dᴏɴ'ᴛ ᴡᴏʀʀʏ ʙʀᴏ I ᴄʀᴇᴀᴛᴇ ʙᴏᴛ ꜰᴏʀ ʏᴏᴜ ᴊᴜꜱᴛ ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ Aɴᴅ Pᴀʏ Mᴏɴᴇʏ 200Rꜱ Mᴏɴᴛʜʟʏ💸
+</b>
 
-<b><a href=https://telegram.me/NobiDeveloper>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ @MovieVillaYT</a></b>
+<b><a href=https://telegram.me/Kalitgadmin_Bot>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ @TamilRockerz_TR</a></b>
 """
 
     MANUELFILTER_TXT = """
@@ -64,14 +65,12 @@ class script(object):
 
 <b>᚜ ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs ᚛</b>
 
-💵 <a href='https://telegra.ph/SUPPORT-12-22-2'>𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗮𝘆</a>
-💸 <a href='https://telegra.ph/SUPPORT-12-22-2'>𝗣𝗮𝘆𝘁𝗺</a>
-💶 <a href='https://telegra.ph/SUPPORT-12-22-2'>𝗣𝗵𝗼𝗻𝗲𝗣𝗲</a>
+By : @Kalitgadmin_Bot
 
 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨
 
-<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/NobiDeveloperr'>ʙᴏss</a>
-ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/NobiDeveloperr'>ʙᴏss</a></b>"""
+<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/Kalitgadmin_Bot'>ʙᴏss</a>
+ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/Kalitgadmin_Bot'>ʙᴏss</a></b>"""
 
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 <b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
@@ -178,7 +177,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 𝟹) ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ
 
-<b><a href=https://telegram.me/NobiDeveloperr>~ ʀᴇǫᴜᴇ𝗌ᴛ ᴛᴏ ᴏᴡɴᴇʀ</a></b>
+<b><a href=https://telegram.me/Kalitgadmin_Bot>~ ʀᴇǫᴜᴇ𝗌ᴛ ᴛᴏ ᴏᴡɴᴇʀ</a></b>
 """
 
     TOP_ALRT_MSG = """ꜱᴇᴀʀᴄʜɪɴɢ  ɪɴ  ᴅᴀᴛᴀʙᴀꜱᴇ..."""
@@ -198,17 +197,46 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ☎️ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「 <a href='https://telegram.me/NobiDeveloper'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」──────
+<b>ENGLISH 👇👇👇
 
-➥ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏꜰ ᴍᴏɴᴇʏ ꜰʀᴏᴍ ᴛʜɪꜱ ʙᴏᴛ.
+🎖️ PREMIUM MEMBERSHIP 🎖️
 
-›› sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 𝟹𝟶𝟶 ᴍᴇᴍʙᴇʀs.
+⚡ WE ARE HAPPY TO ANNOUNCE OUR BOT'S PREMIUM MEMBERSHIP FOR PREMIUM USERS IN CHEAP RATES ⚜️
 
-›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href='https://tnshort.net/ref/devilofficial'>ᴛɴʟɪɴᴋ</a> ᴏʀ <a href='https://onepagelink.in/ref/Nobita'>ᴏɴᴇᴘᴀɢᴇʟɪɴᴋ</a>. [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
+🥶 BENEFITS OF IT:
+👉 FREE MOVIES / SERIES
+👉 NEW RELEASES ON SAME DAY
+👉 WITHOUT ANY ADS
+👉 DIRECT FILES
+👉 WATCH ONLINE SUPPORT
+👉 FAST DOWNLOAD SUPPORT
+👉 EVERY LANGUAGE AVAILABLE
 
-›› sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href='https://telegram.me/NobiDeveloper/1063'>ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ</a>.
+🥶 PRICE:
+💸 ONLY 50₹ / Month
 
-➥ ᴛʜɪꜱ ʙᴏᴛ ꜰʀᴇᴇ ꜰᴏʀ ᴀʟʟ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs ꜰʀᴇᴇ ᴏꜰ ᴄᴏꜱᴛ.</b>"""
+🚨 Contact @Kalitgadmin_Bot to buy.
+
+
+Tamil(தமிழில்) 👇👇👇
+
+🎖️ பிரீமியம் உறுப்பினர் 🎖️
+
+⚡ மலிவு விலையில் பிரீமியம் பயனர்களுக்கு எங்கள் போட்டின் பிரீமியம் உறுப்பினர்களை அறிவிப்பதில் நாங்கள் மகிழ்ச்சியடைகிறோம் ⚜️
+
+இதன் நன்மைகள்:
+👉 இலவச MOVIES / SERIES
+👉 ஒரே நாளில் புதிய வெளியீடுகள்
+👉 எந்த விளம்பரமும் இல்லாமல்
+👉 DIRECT FILE
+👉 WATCH ONLINE SUPPORT
+👉 FAST DOWNLOAD SUPPORT
+👉 ஒவ்வொரு மொழியும் கிடைக்கும்
+
+விலை:
+💸 மாதம் 50₹ மட்டுமே
+
+🚨 வாங்க, @Kalitgadmin_Bot ஐத் தொடர்பு கொள்ளவும்</b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -233,7 +261,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 ☆ ᴄᴏɴᴛɪɴᴜᴇ ᴛʜɪs ᴍᴇᴛʜᴏᴅ ᴛᴏ ɢᴇᴛᴛɪɴɢ ʏᴏᴜ ꜰɪʟᴇ
 
-❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ @NobiDeveloper
+❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ @TamilRockerz_TR
 """
 
     NORSLTS = """
@@ -244,26 +272,21 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-[{file_name}](https://telegram.me/NobiDeveloper)
+[{file_name}](https://telegram.me/TamilRockrz_TR)
 
 <b>•────•────────•────•
-📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/AllRequestGroups)
-🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/MovieVillaYT)
+📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Movies_Request_TR)
+🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/TamilRockrz_TR)
 •────•────────•────•
 
-©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ](https://youtube.com/@NobiDeveloper)</b>"""
+©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : @TamilRockerz_TR</b>"""
 
     IMDB_TEMPLATE_TXT = """
-<b>{title}</b>
-
-⭐️<b>{rating}</b> | ⏰ <b>{runtime}</b> | 📆 <b>{release_date}</b>
-
-● <b>{genres}</b>
-● <b>{languages}</b>
-
-📖 sᴛᴏʀʏ : <b>{plot}</b> 
-
-© {message.chat.title}
+<b>🏷 Title: <a href={url}>{title}</a>
+🎭 Genres: {genres}
+📆 Year: <a href={url}/releaseinfo>{year}</a>
+🌟 Rating: <a href={url}/ratings>{rating}</a> / 10
+📥 Upload : @TamilRockerz_TR</b>
 """
     
     ALL_FILTERS = """
